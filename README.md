@@ -1,4 +1,5 @@
-<h1 align="center">Hello , I'm Ayush Rawat 👋</h1>
+<h1 align="center">Hello , I'm Ayush Rawat 👋</h1><br/>
+
 - 📝 I regulary write articles on [https://ayushrawat-17.medium.com/](https://ayushrawat-17.medium.com/)
 
 - 📫 How to reach me **ayushrawatkv@gmail.com**
